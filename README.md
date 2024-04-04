@@ -6,6 +6,13 @@ Neste repositório, pude aprimorar e desenvolver minhas habilidades em HTML e CS
 
 "We Care" é um projeto web desenvolvido com HTML e CSS. O objetivo principal deste projeto é fornecer um site simples e elegante para uma organização fictícia que se preocupa com causas sociais. O design é limpo e responsivo, garantindo uma boa experiência de usuário em dispositivos de diferentes tamanhos.
 
+<h2>Recursos</h2>
+
+**HTML:** Utilizei HTML para estruturar o conteúdo do site, garantindo uma organização lógica e semântica.
+
+**CSS:** Utilizei CSS para estilizar o site, aplicando cores, fontes e layouts adequados para transmitir a mensagem da organização de forma eficaz.
+
+**Responsividade:** O site é totalmente responsivo, adaptando-se a diferentes tamanhos de tela, desde dispositivos móveis até desktops.
 
 <h2>Screenshots</h2>
 
@@ -15,9 +22,6 @@ Neste repositório, pude aprimorar e desenvolver minhas habilidades em HTML e CS
 <img width=1000px src="https://raw.githubusercontent.com/UnravelJP/CSS-We-Care/main/img/screenshot-1.png">
 </div>
 <br>
-<br>
-<br>
-<br>
 
 **Dispositivos móveis:**
 
@@ -25,15 +29,6 @@ Neste repositório, pude aprimorar e desenvolver minhas habilidades em HTML e CS
 <img height=450px src="https://raw.githubusercontent.com/UnravelJP/CSS-We-Care/main/img/screenshot-2.png">
 </div>
 <br>
-<br>
-
-<h2>Recursos</h2>
-
-**HTML:** Utilizei HTML para estruturar o conteúdo do site, garantindo uma organização lógica e semântica.
-
-**CSS:** Utilizei CSS para estilizar o site, aplicando cores, fontes e layouts adequados para transmitir a mensagem da organização de forma eficaz.
-
-**Responsividade:** O site é totalmente responsivo, adaptando-se a diferentes tamanhos de tela, desde dispositivos móveis até desktops.
 
 <h2>Conteúdo</h2>
 
@@ -46,7 +41,6 @@ O repositório contém os seguintes arquivos:
 **/img:** Contém todas as imagens utilizadas no site.
 
 <a href="https://unraveljp.github.io/CSS-We-Care/"> Clique aqui</a> para abrir o projeto.
-
 
 <h2>Como Contribuir</h2>
 
